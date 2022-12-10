@@ -8,6 +8,7 @@ sections:
   label: home
   create: documents
   templates:
+  - content-feature
   - 1-column-text
 - type: document
   path: FORESTRY-README.md
